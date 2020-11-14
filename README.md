@@ -12,7 +12,8 @@ USE,
 #Spring => i'm beginner..^ㅡ^..; 
 and etc
 
-now,
+
+# my webSite : studyforcoding.dothome.co.kr 
 
 i will make a simple calculator on my web (page 1) <chapter 1> 
 
