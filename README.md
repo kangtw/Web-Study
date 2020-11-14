@@ -12,8 +12,6 @@ USE,
 #Spring => i'm beginner..^ㅡ^..; 
 and etc
 
-second , i also write .txt about new knowledge when i learn new tech on studying to korean language. 
-
 
 
 
